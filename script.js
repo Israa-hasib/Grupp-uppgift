@@ -1,1 +1,2 @@
 // SEBBE HÄR DEN HÄR KOMMENTAREN ÄR MIN ANDRA PUSH
+console.log('hej')
